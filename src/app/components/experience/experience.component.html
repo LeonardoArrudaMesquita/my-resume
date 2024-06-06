@@ -1,0 +1,11 @@
+<h2 subtitle>Experience</h2>
+<div class="experience-container" *ngFor="let experience of experiences">
+    <div class="experience-header">
+        <p>{{ experience.role }}</p>
+        <p>{{ experience.initialDate }} - {{ experience.finalDate }}</p>    
+    </div>
+    <p>{{ experience.company.name }} | {{ experience.company.location }}</p>
+    <ul>
+        <li *ngFor="let activity of experience.activities">{{ activity }}</li>        
+    </ul>
+</div>

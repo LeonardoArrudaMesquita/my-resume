@@ -1,0 +1,14 @@
+.skills {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   
+    &-list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 1rem;
+        row-gap: 0.5rem;
+        width: 100%;
+        justify-content: space-between;       
+    }
+}

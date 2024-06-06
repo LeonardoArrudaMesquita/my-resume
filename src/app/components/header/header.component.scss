@@ -1,9 +1,12 @@
-.container {
+.content {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 
     app-badge {
         margin-right: 2rem;
     }
+}
+
+.personal-data {
+    margin-top: 1rem;
 }

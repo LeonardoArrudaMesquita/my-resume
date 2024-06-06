@@ -1,15 +1,15 @@
-import { NgModule } from '@angular/core';
+// import { NgModule } from '@angular/core';
 
-import { BadgeComponent } from '../badge/badge.component';
-import { MainTitleComponent } from '../main-title/main-title.component';
-import { HeaderComponent } from './header.component';
+// import { BadgeComponent } from '../badge/badge.component';
+// import { MainTitleDirective } from '../../directives/main-title/main-title.directive';
+// import { HeaderComponent } from './header.component';
 
-@NgModule({
-  declarations: [
-    HeaderComponent,
-    BadgeComponent,
-    MainTitleComponent
-  ],
-  exports: [HeaderComponent]
-})
-export class HeaderModule { }
+// @NgModule({
+//   declarations: [
+//     HeaderComponent,
+//     BadgeComponent,
+//     MainTitleDirective
+//   ],
+//   exports: [HeaderComponent]
+// })
+// export class HeaderModule { }

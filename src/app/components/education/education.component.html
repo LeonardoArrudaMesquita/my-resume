@@ -1,0 +1,9 @@
+<h2 subtitle>Education</h2>
+
+<div class="education" *ngFor="let education of educations">
+    <div>
+        <p>{{ education.title }}</p>
+        <p>{{ education.institution }}, {{ education.location }}</p>
+    </div>
+    <p>{{ education.conclusionDate }}</p>
+</div>
