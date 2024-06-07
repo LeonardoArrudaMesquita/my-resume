@@ -1,8 +1,8 @@
 <h1 align="center">My Resume ❤️</h1>
 
-![](src/assets/img/resume.png)
-
 <div align="center">
+
+![](src/assets/img/resume.png)
 
 This project is part of my learning in Angular, where I am developing a clone of my curriculum using the technologies and concepts learned during my study.
 
