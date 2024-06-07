@@ -1,6 +1,6 @@
 <h1 align="center">My Resume ❤️</h1>
 
-![](src\assets\img\resume.png)
+![](src/assets/img/resume.png)
 
 <div align="center">
 
@@ -46,4 +46,4 @@ Finally, open your browser and visit http://localhost:4200/
   </tr>
 </table>
 
-Follow me on `<a href="https://github.com/LeonardoArrudaMesquita">`Github`</a>` and `<a href="https://www.linkedin.com/in/leonardo-arruda-40053b146/">`Linkedin`</a>`!
+Follow me on <a href="https://github.com/LeonardoArrudaMesquita">Github</a> and <a href="https://www.linkedin.com/in/leonardo-arruda-40053b146/">Linkedin</a>!
